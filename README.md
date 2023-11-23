@@ -29,5 +29,5 @@ Thank you for visiting, and I hope my project provides insight into the learning
 
 ---
 
-*This organization is maintained by [Esther Tirado, a proud participant of the Samsung DesArrolladoras 2022 program, facilitated by Bejob and accredited by Universidad Camilo José Cela.*
+*This organization is maintained by Estherkii, a proud participant of the Samsung DesArrolladoras 2022 program, facilitated by Bejob and accredited by Universidad Camilo José Cela.*
 
